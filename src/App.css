@@ -1,0 +1,22 @@
+body{
+  text-align: center;
+  padding-top: 10%;
+  font-size: 4em;
+  color: white;
+  background-color: #212321;
+}
+input{
+  height:60px;
+  width: 250px;
+  font-size:1em;
+}
+button {
+  background-color: #26324a; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
